@@ -8,7 +8,7 @@ def key_for_min_value(name_hash)
     if key < 0
       key
     else
-      return name_hash
+      return lowest
   end
 end 
 
